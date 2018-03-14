@@ -1,4 +1,4 @@
-# Rush Partners Junior Data Analyst Challenge
+# Rush Partners Data Analyst Challenge
 
 Data analysis is core to the success of Rush and it's brands.
 
